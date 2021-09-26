@@ -1,1 +1,2 @@
-"Hello world", I'm \<Conor>; I'm a "computer science student", --focusing on \<web development>;
+###Read about **me**
+I"m testing out some formatting here, trying to see how to style this kind of document
