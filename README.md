@@ -4,11 +4,7 @@
 <br/>
 
 ## :family_man_woman_boy: I'm a husband, and soon to be a father!
-- 2022 goals: get my first developer job, add some exciting features to my.
-<a href="https://conorjamesward.com">
-  <img src="https://img.shields.io/badge/-Website-blue" alt="Contact Me Directly">
-</a>
-
+- 2022 goals: get my first developer job, add some exciting features to my [website](https://conorjamesward.com).
 - Longer term goals: I like learning, and I want to help other's learn too.
 - Beyond family & tech: :mountain: I like hiking, backpacking, and a little light mountain climbing.
 
@@ -25,9 +21,10 @@
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" />
 </a>
 
-<br/>
-<br/>
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/test?style=social)
 
+<br/>
+<br/>
 
 ## Some Tech Skills:
 <img height="32" width="32" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"/>
@@ -36,7 +33,6 @@
 <img height="32" width="32" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/>
 <img height="32" width="32" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/>
 <img height="32" width="32" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS"/>
-
 <br/>
 <br/>
 
