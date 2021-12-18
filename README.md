@@ -1,1 +1,3 @@
-Nothing here yet... comming soon after I play with formatting
+check out my website:
+
+[website]: hhtps://conorjamesward.com
