@@ -15,7 +15,7 @@
 ### Contact me [directly](https://conorjamesward.com/contactMe)
 ### Or through social media:
 <a href="https://www.linkedin.com/in/conor-ward-01000011-01110111/">
-  <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/LinkedIn.svg" />
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" />
 </a>
 
 <br/>
