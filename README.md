@@ -16,12 +16,6 @@
   <img src="https://img.shields.io/badge/Contact%20Me-Directly-blue" alt="Contact Me Directly">
 </a>
 
-### Or through social media:
-<a href="https://www.linkedin.com/in/conor-ward-01000011-01110111/">
-  <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" />
-</a>
-
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/test?style=social)
 
 <br/>
 <br/>
