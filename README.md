@@ -4,7 +4,11 @@
 <br/>
 
 ## :family_man_woman_boy: I'm a husband, and soon to be a father!
-- 2022 goals: get my first developer job, add some exciting features to my [website](https://conorjamesward.com).
+- 2022 goals: get my first developer job, add some exciting features to my.
+<a href="https://conorjamesward.com">
+  <img src="https://img.shields.io/badge/-Website-blue" alt="Contact Me Directly">
+</a>
+
 - Longer term goals: I like learning, and I want to help other's learn too.
 - Beyond family & tech: :mountain: I like hiking, backpacking, and a little light mountain climbing.
 
@@ -15,6 +19,7 @@
 <a href="https://conorjamesward.com/contactMe">
   <img src="https://img.shields.io/badge/Contact%20Me-Directly-blue" alt="Contact Me Directly">
 </a>
+
 ### Or through social media:
 <a href="https://www.linkedin.com/in/conor-ward-01000011-01110111/">
   <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" />
