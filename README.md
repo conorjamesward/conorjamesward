@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/Contact%20Me-Directly-blue" alt="Contact Me Directly">
 </a>
 
-
 <br/>
 <br/>
 
