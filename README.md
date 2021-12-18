@@ -1,5 +1,4 @@
-### Hey there, I'm Conor. I'm a self-taught aspiring web developer.
-
+# Hey there, I'm Conor. I'm a self-taught aspiring web developer.
 
 ## :family_man_woman_boy: I'm a husband, and soon to be a father!
 - 2022 goals: get my first developer job, add some exciting features to my [website](https://conorjamesward.com).
