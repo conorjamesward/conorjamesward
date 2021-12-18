@@ -1,1 +1,1 @@
-<img align="left" alt="Conor's Github Stats src="https://github-readme-stats.vercel.app/api?username=conorjamesward"/>
+[![Conor's GitHub stats](https://github-readme-stats.vercel.app/api?username=conorjamesward)](https://github.com/anuraghazra/github-readme-stats)
