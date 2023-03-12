@@ -4,7 +4,7 @@
 <br/>
 
 ## :family_man_woman_boy: I'm a husband, and newly a father!
-- 2022 goals: get my first developer job, add some exciting features to my [website](https://conorjamesward.com).
+- 2023 goals: get my first developer job, add some exciting features to my [website](https://conorjamesward.com).
 - Longer term goals: I like learning, and I want to help other's learn too.
 - Beyond family & tech: :mountain: I like hiking, backpacking, and a little light mountain climbing.
 
